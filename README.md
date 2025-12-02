@@ -14,12 +14,12 @@ This project is a course design for **Computer Composition Principles** at the S
 
 | No. | Student ID   | Name                  | Role              | Contributions                                                                 |
 | --- | ------------ | --------------------- | ----------------- | ----------------------------------------------------------------------------- |
-| 1   | 2130132003   | Ahmed Md Shakil      | Leader            | Coordinated team tasks, supervised CPU design, implemented the control unit, and led troubleshooting. |
-| 2   | 2130132004   | Vaskar Chakma        | Member            | Developed the ALU, integrated it into the CPU, set up test environments, and ran simulations.         |
-| 3   | 2130132033   | Amin Misbahul        | Member            | Contributed to documentation, finalized project reports, and assisted in testing the CPU.            |
-| 4   | 2130132022   | Rouf Abdur           | Member            | Handled opcode decoding and tested integration.                                                     |
-| 5   | 2130132024   | Sunny Barua          | Member            | Integrated the data memory module for load/store instructions.                                      |
-| 6   | 2130132028   | Protik Md Kudrutuzzaman | Member         | Focused on testing and debugging.                                                                  |
+| 1   | 2130130203   | Ahmed Md Shakil      | Leader            | Coordinated team tasks, supervised CPU design, implemented the control unit, and led troubleshooting. |
+| 2   | 2130130204   | Vaskar Chakma        | Member            | Developed the ALU, integrated it into the CPU, set up test environments, and ran simulations.         |
+| 3   | 2130130233   | Amin Misbahul        | Member            | Contributed to documentation, finalized project reports, and assisted in testing the CPU.            |
+| 4   | 2130130222   | Rouf Abdur           | Member            | Handled opcode decoding and tested integration.                                                     |
+| 5   | 2130130224   | Sunny Barua          | Member            | Integrated the data memory module for load/store instructions.                                      |
+| 6   | 2130130228   | Protik Md Kudrutuzzaman | Member         | Focused on testing and debugging.                                                                  |
 
 ## Supervisor
 
